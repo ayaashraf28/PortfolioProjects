@@ -1,4 +1,4 @@
-COVID SQL Data Cleaning – Portfolio Project
+--COVID SQL Data Cleaning â€“ Portfolio Project
 
 --Changed data type for the date column to datetime
 ALTER TABLE [dbo].[CovidDeaths]
